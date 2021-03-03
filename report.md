@@ -7,7 +7,9 @@
 На тестирование затрачено: 2 часа 
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Kirill-51/Testing-KeyValidator/issues/1#issue-819656132
+* 
+
+[Дефект](https://github.com/Kirill-51/Testing-KeyValidator/issues/1#issue-819656132 "Баг")
 
 ## Описание процесса тестирования
 
